@@ -1,1 +1,5 @@
 Test content 
+ Content added locally  in  dev branch file6 
+
+Test for merge  error when push /pulled   - GitHub-Dev Branch
+
