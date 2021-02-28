@@ -6,5 +6,11 @@ The course contains :
 - Presentations of concepts of software versioning
 - Presentations of commands
 - Examples of commands usage
-- Exercises of various scenrios
+- Exercises of various scenarios
 - Indenpent exercises for each student
+
+## How to join and follow the course 
+
+## How to use this repository and other resources
+
+## How to contribute
