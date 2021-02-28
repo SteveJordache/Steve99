@@ -14,3 +14,4 @@ The course contains :
 ## How to use this repository and other resources
 
 ## How to contribute
+Please read CONTRIBUTING.md
